@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.davidalzamora.aws</groupId>
-    <artifactId>lambda-java-example</artifactId>
+    <groupId>com.davidalzamora.airquality</groupId>
+    <artifactId>airquality-lambda</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>lambda-java-example</name>
+    <name>airquality-lambda</name>
 
     <packaging>jar</packaging>
 
